@@ -1,0 +1,142 @@
+.Stussy {
+  width: 1024px;
+  height: 1790px;
+  background-color: #ffffff;
+}
+
+nav {
+  width: 1024px;
+  height: 55px;
+  background-color: #011312;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+.Stussyw {
+  float: left;
+  width: 131px;
+  height: 55px;
+  font-family: PingFangTC;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  color: #a0ebeb;
+  margin-left: 62px;
+  margin-top: 18px;
+}
+.layer {
+  float:left;
+  width: 99px;
+  height: 54px;
+  font-family: PingFangTC;
+  font-size: 14px;
+  text-align: center;
+  color: #ebf4f3;
+  margin-top: 20px;
+}
+
+.icon{
+  float: left;
+  width: 20px;
+  height: 20px;
+  background-color: #a0ebeb;
+  margin-left: 52px;
+  margin-top: 20px;
+}
+#f{
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 160px;
+}
+#s{float: left;
+width: 20px;
+height: 20px;
+margin-left: 52px;
+margin-top: 20px;
+
+}
+#p1{
+  width: 1024px;
+  height: 400px;
+}
+
+#p2{
+  clear: both;
+  float: left;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  margin-top: 40px;
+  margin-left: 100px;
+}
+
+#p3{
+
+  float: right;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  margin-top: 40px;
+  margin-right: 100px;
+}
+
+#p4{
+  clear: both;
+  float: left;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  margin-top: 35px;
+  margin-left: 100px;
+}
+
+#p5{
+
+  float: right;
+  width: 400px;
+  height: 400px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  margin-top: 35px;
+  margin-right: 100px;
+}
+
+#p6{
+  float: left;
+  clear: both;
+  width: 900px;
+  height: 300px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  margin-left: 62px;
+  margin-top: 49px;
+}
+
+footer{
+
+  width: 1024px;
+  height: 59px;
+  background-color: #011312;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  margin-top: 1276px;
+}
+
+.copy{
+  float: left;
+  width: 150px;
+  height: 9px;
+  font-family: PingFangTC;
+  font-size: 7px;
+  font-weight: 500;
+  text-align: center;
+  color: #ebf4f3;
+  margin-top: 20px;
+}
+
+.logo{
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin-left: 37px;
+  margin-top: 20px;
+}
